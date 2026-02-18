@@ -1,0 +1,6 @@
+# Eclipse/Java build output
+bin/
+*.class
+
+# macOS junk
+.DS_Store
