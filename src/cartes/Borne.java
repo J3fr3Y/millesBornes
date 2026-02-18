@@ -7,4 +7,9 @@ public class Borne extends Carte {
 		this.km = km;
 	}
 
+	public int getKm() {
+		return km;
+	}
+	
+
 }
